@@ -28,6 +28,8 @@
  *
  */
 
+#define __OPEN_SOURCE__
+
 #include <IOKit/IOService.h>
 #include <IOKit/serial/IOSerialDriverSync.h>
 #include <IOKit/serial/IORS232SerialStreamSync.h>
